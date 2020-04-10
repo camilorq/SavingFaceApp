@@ -1,0 +1,2 @@
+SavingFaceToF/AudioKit.framework/AudioKit filter=lfs diff=lfs merge=lfs -text
+SavingFaceToF/AudioKitUI.framework/AudioKitUI filter=lfs diff=lfs merge=lfs -text
