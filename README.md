@@ -1,6 +1,6 @@
 # Saving Face App
 
-We seek to deploy a sub-$5 system to greatly reduce the risk of users acquiring SARS-CoV-2 or other pathogens through surface transmission (more information about the project here).
+We seek to deploy a sub-$5 system to greatly reduce the risk of users acquiring SARS-CoV-2 or other pathogens through surface transmission (more information about the project [here](https://www.media.mit.edu/projects/saving-face/overview/)).
 
 Our device measures the distance between a user’s hands and face using ultrasound pulses between hand-worn sensors and receivers on the neck or head (e.g., earbuds, mics). When the user raises their hand to touch their face, their smartphone alerts them with a vibration or audible alarm.
 
