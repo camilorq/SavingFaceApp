@@ -1,4 +1,4 @@
-## Saving Face App
+# Saving Face App
 
 We seek to deploy a sub-$5 system to greatly reduce the risk of users acquiring SARS-CoV-2 or other pathogens through surface transmission (more information about the project here).
 
